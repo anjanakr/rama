@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_rama.bhakt_user" name="x_rama.bhakt_user">36582d3053533300cf70ddeeff7b1264</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>anjana</sys_created_by>
+        <sys_created_on>2019-08-13 19:42:45</sys_created_on>
+        <sys_id>3a582d3053533300cf70ddeeff7b1266</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>36582d3053533300cf70ddeeff7b1264</sys_name>
+        <sys_package display_value="rama" source="x_rama">5e43a5f853133300cf70ddeeff7b12cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="rama">5e43a5f853133300cf70ddeeff7b12cc</sys_scope>
+        <sys_update_name>sys_embedded_help_role_3a582d3053533300cf70ddeeff7b1266</sys_update_name>
+        <sys_updated_by>anjana</sys_updated_by>
+        <sys_updated_on>2019-08-13 19:42:45</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
